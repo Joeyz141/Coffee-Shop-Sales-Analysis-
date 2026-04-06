@@ -1,0 +1,1 @@
+![Coffee Shop Dashboard](images/coffee_shop_dashboard.png)
